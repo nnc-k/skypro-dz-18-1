@@ -42,4 +42,4 @@ dz_18_1/
 
 ## Автор
 
-nnc-k (katkova.a1997@gmail.com)
+nnc-k (katkova.a1997@gmail.com).
